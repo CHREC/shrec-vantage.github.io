@@ -26,6 +26,11 @@ en: &DEFAULT_EN
       - title: "Pitt Space"
         logo: assets/img/pitt_logo_dark_bg.png
 
+  patch:
+    section: patch
+    max-height: 300px
+    logo: assets/img/VANTAGE_mission_patch.png
+
   about:
     title: "STP-H12-VANTAGE"
     body: "Visual And Neuromorphic Tracking And Geosensing Experiment (VANTAGE) is a next-generation 
