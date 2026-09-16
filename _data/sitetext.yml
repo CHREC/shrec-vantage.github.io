@@ -94,7 +94,7 @@ en: &DEFAULT_EN
       - title: "Flight Unit Assembly"
         year: "August 2026"
         desc: "Prepared the flight unit at our Pitt lab"
-        image: assets/img/timeline/vantage_assembly.png
+        image: assets/img/timeline/vantage_assembly.jpg
       - title: "Environmental Testing"
         year: "September 2026"
         desc: "Successfully performed thermal and vibration testing"
