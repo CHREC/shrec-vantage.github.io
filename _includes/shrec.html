@@ -1,13 +1,5 @@
 <!-- SHREC -->
   <section class="py-5" id="{{ site.data.sitetext[site.locale].shrec.section | default: "shrec" }}">
-    <!-- <div class="container">
-      <div class="row" id="center-clients" >
-        <div class="col-md-6 col-sm-6">
-          <img class="img-fluid d-block mx-auto" src="{{ site.data.sitetext[site.locale].shrec.logo }}" alt="{{ client.title }}" style="max-height: {{ site.data.sitetext[site.locale].shrec.max-height | default: "100px" }}">
-        </div>
-      </div>
-    </div> -->
-
     <div class="container" style="padding-top: 10px">
       <div class="row" id="center-clients" >
       {% for client in site.data.sitetext[site.locale].shrec.list %}
