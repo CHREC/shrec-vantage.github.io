@@ -94,11 +94,11 @@ en: &DEFAULT_EN
       - title: "Flight Unit Assembly"
         year: "August 2026"
         desc: "Prepared the flight unit at our Pitt lab"
-        image: assests/img/timeline/vantage_assembly.png
+        image: assets/img/timeline/vantage_assembly.png
       - title: "Environmental Testing"
         year: "September 2026"
         desc: "Successfully performed thermal and vibration testing"
-        image: assests/img/timeline/vantage_testing.jpeg
+        image: assets/img/timeline/vantage_testing.jpeg
       - title: "STP-H12 FCA"
         year: "October 2026"
         desc: "Perform functional configuration audit to STP-H12 team"
