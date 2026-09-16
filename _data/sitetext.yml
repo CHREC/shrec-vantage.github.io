@@ -91,12 +91,20 @@ en: &DEFAULT_EN
         year: "May 2026"
         desc: "The VANTAGE chassis is finalized to address comments from CDR"
         image: assets/img/timeline/final_vantage.png
+      - title: "Flight Unit Assembly"
+        year: "August 2026"
+        desc: "Prepared the flight unit at our Pitt lab"
+        image: assests/img/timeline/vantage_assembly.png
+      - title: "Environmental Testing"
+        year: "September 2026"
+        desc: "Successfully performed thermal and vibration testing"
+        image: assests/img/timeline/vantage_testing.jpeg
       - title: "STP-H12 FCA"
-        year: "July 2026"
+        year: "October 2026"
         desc: "Perform functional configuration audit to STP-H12 team"
         image: assets/img/timeline/approved.png
       - title: "STP-H12 On-Dock"
-        year: "August 2026"
+        year: "November 2026"
         desc: "Deliver VANTAGE to NASA JSC in Houston"
         image: assets/img/timeline/deliver.png
         # you can enforce the alignment
