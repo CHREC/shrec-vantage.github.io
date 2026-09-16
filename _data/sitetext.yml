@@ -23,8 +23,10 @@ en: &DEFAULT_EN
     list:
       - title: "NSF SHREC"
         logo: assets/img/shrec_logo_dark_bg.png
+        url: https://nsf-shrec.org
       - title: "Pitt Space"
         logo: assets/img/pitt_logo_dark_bg.png
+        url: https://space.pitt.edu
 
   patch:
     section: patch
